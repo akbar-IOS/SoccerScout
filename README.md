@@ -41,7 +41,7 @@ REST API integration, and clean project organization.
 ## Screenshots
 
 <p float="left">
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-26 at 10 27 30" src="https://github.com/user-attachments/assets/37520377-3830-43ef-b4e4-3d6f1c66b77d" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-26 at 10 26 42" src="https://github.com/user-attachments/assets/49b5199a-a279-4e17-a04d-ca2bdd74abc0" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-26 at 10 26 24" src="https://github.com/user-attachments/assets/06122e34-a1e4-48d7-af28-1df396e90bac" />
+  <img width="250" src="https://github.com/user-attachments/assets/37520377-3830-43ef-b4e4-3d6f1c66b77d" />
+  <img width="250" src="https://github.com/user-attachments/assets/49b5199a-a279-4e17-a04d-ca2bdd74abc0" />
+  <img width="250" src="https://github.com/user-attachments/assets/06122e34-a1e4-48d7-af28-1df396e90bac" />
 </p>
