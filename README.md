@@ -40,6 +40,6 @@ REST API integration, and clean project organization.
 
 ## Screenshots
 
-<img width="250" src="LINK1">
+<img width="250" src="[LINK1](https://github.com/akbar-IOS/SoccerScout/blob/main/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-05-26%20at%2010.26.24.png?raw=true)">
 <img width="250" src="LINK2">
 <img width="250" src="LINK3">
